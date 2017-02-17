@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 2261-67E4
+
+ Directory of C:\Users\GVHK9782\Desktop\MyProject
+
+17/02/2017  15:14    <DIR>          .
+17/02/2017  15:14    <DIR>          ..
+17/02/2017  15:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,795,286,528 bytes free
